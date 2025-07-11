@@ -1,4 +1,4 @@
-Pham language project .
+Pham language project : http://www.phamlanguage.com 
 Pham language is high level universal human-AI-AI language . 
 It boost mutual human-AI understanding , with less require human brain cognitive load for syntax memorization ,
 but with more efficient energy using of AI system at server side . 
