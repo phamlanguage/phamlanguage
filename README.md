@@ -40,8 +40,17 @@ Under the Attribution requirement, any system or model exploiting this architect
 **By supporting the Pham Language, you are funding a Milliard-Dollar Economic Gain.** 
 
 Our mission is to deploy this standard globally to stabilize the AI sector and protect the Earth's climate. Every implementation of Pham Hierarchy directly reduces a server's carbon footprint.
+Join the mission to transform AI efficiency and safety. Your support directly funds our research into:
+- **50% Reduction** in AI energy consumption.
+- **100% Logical Transparency** for national strategic planning and high-safety sectors.
+- **Anthropic AI Communication** via the Pham Language architecture.
 
-*   **Sponsor on Open Collective**: [opencollective.com/phamlanguage](https://opencollective.com/phamlanguage)
+### [  💎 Support the Project via PayPal ($98.00 USD)](https://www.paypal.com/ncp/payment/3R7RS7XNJXJ6U)
+### or 💎 Support via **Open Collective**: [opencollective.com/phamlanguage](https://opencollective.com/phamlanguage)
+*By supporting this project, you become a partner in the paradigm shift toward a sustainable and transparent AI future.*
+
+
+
 *   **Grant Inquiries**: [phamlanguage@gmail.com](mailto:phamlanguage@gmail.com)
 
 ---
