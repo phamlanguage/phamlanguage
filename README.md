@@ -2,7 +2,7 @@
 ## **The Universal Human-AI-AI Bridge for Absolute Algorithmic Transparency**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19115228.svg)](https://doi.org/10.5281/zenodo.19115228)
-**Official Record ID**: 10.5281/zenodo.19080534  
+**Official Record ID**: 10.5281/zenodo.19115228  
 **Architect**: Pham Gia Tien (Lead Architect)
 
 ---
