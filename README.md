@@ -1,8 +1,7 @@
 # The Pham Language Architecture
 ## The Universal Human AI language .
 
-> [!IMPORTANT]
-> **Official Record ID:** `10.5281/zenodo.19115228`  
+> **[Lastest fix :](https://zenodo.org/records/19314411/files/phamlanguage202604_procedural_formated_fixed.html?download=1 )  
 > **Architect:** Pham Gia Tien (Lead Architect)
 
 ---
