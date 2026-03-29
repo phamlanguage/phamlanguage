@@ -45,7 +45,7 @@ Join the mission to transform AI efficiency and safety. Your support directly fu
 - **100% Logical Transparency** for national strategic planning and high-safety sectors.
 - **Anthropic AI Communication** via the Pham Language architecture.
 
-### [ https://www.paypal.com/ncp/payment/D4PBSKVE9RVZQ  💎 Support the Project via PayPal ($98.00 USD)](https://www.paypal.com/ncp/payment/3R7RS7XNJXJ6U)
+### [ https://www.paypal.com/ncp/payment/D4PBSKVE9RVZQ]
 *By supporting this project, you become a partner in the paradigm shift toward a sustainable and transparent AI future.*
 
 
